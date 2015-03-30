@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-feature 'Editing Cars' do
+feature 'Editing cars' do
   scenario 'can edit a car' do
     visit '/'
 

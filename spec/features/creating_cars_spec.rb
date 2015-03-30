@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-feature 'Creating Cars' do
+feature 'Creating cars' do
   scenario 'can create a car' do
     visit '/'
 
